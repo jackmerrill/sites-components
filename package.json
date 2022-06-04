@@ -1,0 +1,15 @@
+{
+  "name": "sites-components",
+  "version": "1.0.0",
+  "description": "Components for Astral Sites",
+  "scripts": {
+    "start": "go run ."
+  },
+  "repository": "https://github.com/astralservices/sites-components.git",
+  "author": "Jack Merrill",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "react": "^18.1.0",
+    "webpack": "^5.73.0"
+  }
+}
